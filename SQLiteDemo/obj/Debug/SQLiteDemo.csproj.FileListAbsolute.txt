@@ -1,0 +1,11 @@
+C:\Users\user15\source\repos\SQLiteDemo\SQLiteDemo\bin\Debug\SQLiteDemo.exe.config
+C:\Users\user15\source\repos\SQLiteDemo\SQLiteDemo\bin\Debug\SQLiteDemo.exe
+C:\Users\user15\source\repos\SQLiteDemo\SQLiteDemo\bin\Debug\SQLiteDemo.pdb
+C:\Users\user15\source\repos\SQLiteDemo\SQLiteDemo\bin\Debug\System.Data.SQLite.dll
+C:\Users\user15\source\repos\SQLiteDemo\SQLiteDemo\bin\Debug\System.Data.SQLite.xml
+C:\Users\user15\source\repos\SQLiteDemo\SQLiteDemo\obj\Debug\SQLiteDemo.csproj.AssemblyReference.cache
+C:\Users\user15\source\repos\SQLiteDemo\SQLiteDemo\obj\Debug\SQLiteDemo.csproj.SuggestedBindingRedirects.cache
+C:\Users\user15\source\repos\SQLiteDemo\SQLiteDemo\obj\Debug\SQLiteDemo.csproj.CoreCompileInputs.cache
+C:\Users\user15\source\repos\SQLiteDemo\SQLiteDemo\obj\Debug\SQLiteDemo.csproj.CopyComplete
+C:\Users\user15\source\repos\SQLiteDemo\SQLiteDemo\obj\Debug\SQLiteDemo.exe
+C:\Users\user15\source\repos\SQLiteDemo\SQLiteDemo\obj\Debug\SQLiteDemo.pdb
